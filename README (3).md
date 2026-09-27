@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.12-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-**[🔗 Try the live app](YOUR_STREAMLIT_CLOUD_URL_HERE)**
+**[🔗 Try the live app](https://lead-scoring-project-786.streamlit.app/)**
 
 
 ## Problem
