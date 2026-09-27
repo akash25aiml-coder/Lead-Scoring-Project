@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../github_upload/app"
+		},
+		{
+			"path": "../github_upload/data"
+		},
+		{
+			"path": "../github_upload/reports"
+		},
+		{
+			"path": "../github_upload/src"
+		},
+		{
+			"path": "../github_upload/tests"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+src/artifacts.joblib
+src/tuned_models.joblib
+src/logreg_pipeline.joblib
+src/final_model.joblib
